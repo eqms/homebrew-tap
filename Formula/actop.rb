@@ -1,8 +1,8 @@
 class Actop < Formula
   desc "Top-like terminal UI for Apple containers (like ctop)"
   homepage "https://github.com/eqms/actop"
-  url "https://github.com/eqms/actop/archive/refs/tags/v0.4.0.tar.gz"
-  sha256 "f7e3af1b7161e44bed26599158ad14d2323c9c37468dd84a9b24048a92e03563"
+  url "https://github.com/eqms/actop/archive/refs/tags/v0.5.0.tar.gz"
+  sha256 "8f3e2da484810757c740c24b2ccdac2e21c96091cd66c4c55ec1a52e4af1eb08"
   license "MIT"
   head "https://github.com/eqms/actop.git", branch: "main"
 
